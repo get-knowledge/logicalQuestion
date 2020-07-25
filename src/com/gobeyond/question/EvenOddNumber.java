@@ -5,7 +5,6 @@ public class EvenOddNumber {
 	public static void main(String a[]) {
 		
 		System.out.println(":::::::::::");
-		System.out.println("::::::222:::::");
 		System.out.println("::::3333:::::::");
 	}
 
