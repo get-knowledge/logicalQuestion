@@ -15,6 +15,14 @@ public class PalidromString {
 
 	}
 
-	
+	public static void main(String a[]) {
+		
+		
+		
+		
+		System.out.println(chekcStringIsPalidrom("Hello"));
+		
+		
+	}
 	
 }
