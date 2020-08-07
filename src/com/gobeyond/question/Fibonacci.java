@@ -2,16 +2,14 @@ package com.gobeyond.question;
 
 public class Fibonacci {
 
-	 static int a = 0, b = 1, c = 0;
-	
+	static int a = 0, b = 1, c = 0;
+
 	public static void main(String s[]) {
 
-		for(int i=1; i<9;i++) {
-			
+		for (int i = 1; i < 9; i++) {
+
 			System.out.println(fibonacci(i));
 		}
-		
-		
 
 	}
 
@@ -47,8 +45,6 @@ public class Fibonacci {
 	}
 
 	public static void printFibonacciRescsion(int range) {
-
-		
 
 		if (range > 0) {
 			c = a + b;
